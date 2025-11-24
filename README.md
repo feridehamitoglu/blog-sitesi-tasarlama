@@ -18,7 +18,7 @@ HTML5
 
 CSS3
 
-(İsteğe bağlı) Görseller için img klasörü
+Görseller için img klasörü
 
 📜 Sayfa Açıklamaları
 index.html
@@ -37,7 +37,7 @@ bulunur.
 post.html
 
 Her blog gönderisi için tekil içerik sayfası olarak kullanılabilir.
-(Not: Projenin örnek yapısında sadece link verilmiştir.)
+
 
 🖼️ Görseller
 
